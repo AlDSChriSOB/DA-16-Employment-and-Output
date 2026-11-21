@@ -1,0 +1,18 @@
+{
+  "project": "Employment and Output",
+  "executed_utc": "2026-11-21T10:14:13.014500+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/longley.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/longley.html",
+  "sha256": "1283706d84cb7697111b42a6aed3aca222df1cda2ed1c3d4913b713b94a5e516",
+  "raw_rows": 16,
+  "analysis_rows": 16,
+  "excluded_rows": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "pearson": 0.9835516111796692,
+  "spearman": 0.9852941176470589
+}

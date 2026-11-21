@@ -1,0 +1,9 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,16
+GNP.deflator,float64,0,0.0,16
+GNP,float64,0,0.0,16
+Unemployed,float64,0,0.0,16
+Armed.Forces,float64,0,0.0,16
+Population,float64,0,0.0,16
+Year,int64,0,0.0,16
+Employed,float64,0,0.0,16

@@ -1,0 +1,14 @@
+{
+  "id": 16,
+  "title": "Employment and Output",
+  "question": "How are recorded economic output and employment associated?",
+  "x": "GNP",
+  "y": "Employed",
+  "mode": "relation",
+  "caveat": "Only 16 annual observations; common trends and collinearity can create misleading correlations.",
+  "action": "Difference the series and inspect time dependence before modelling.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/longley.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/longley.html",
+  "metric_label": "mean Employed",
+  "method": "Complete-pair scatter plot of GNP and Employed, with Pearson and Spearman correlations. No regression adjustment or causal claim."
+}
